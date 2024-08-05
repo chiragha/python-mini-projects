@@ -15,7 +15,7 @@
 ## To execute the project:
 • Run Application main.py
 
-## Screenshot
+## Screenshots
 
 ![rpy1](https://github.com/user-attachments/assets/8e02c4da-1b28-4f38-a25c-9a5287f2426d)
 
