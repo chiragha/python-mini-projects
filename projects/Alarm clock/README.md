@@ -1,10 +1,20 @@
 # Alarm clock
-Alarm clock made using the Python time module and is a terminal game to countdown the time.
 
-### How to run the script
-main.py
-Example
-Enter the time in hour minutes seconds: 20 00:20!
+## Tech stack:
+• Python
+
+## Libraries used:
+* Tkinter
+* date
+* datetime
+* pygame
+
+## To install external modules:
+* pip install pygame
+* Run pip install tkinter
+
+## To execute the project:
+• Run Application main.py
 
 ## Screenshot
 
