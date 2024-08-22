@@ -3,11 +3,9 @@
 ### Tech stack:
 • Python
 
-### Libraries used:
-Tkinter
-
 
 To execute the project:
+
 • Run Application main.py
 
 ## Screenshot
